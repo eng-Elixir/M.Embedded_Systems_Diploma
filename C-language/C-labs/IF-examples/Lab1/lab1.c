@@ -1,11 +1,10 @@
 /*
- * main.c
+ * lab1.c
  *
  *  Created on: Aug 25, 2024
  *      Author: Sabri
  *  first Lab in C programing languge
- *  this code aim to calculate the circle area
- *  and circumference.
+ *  this code aim to calculate the circle area and circumference. 
  */
 
 # include <stdio.h>
