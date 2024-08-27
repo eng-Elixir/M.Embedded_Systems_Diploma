@@ -1,9 +1,7 @@
 /*
  * lab4.c
- *
  *  Created on: Aug 27, 2024
  *      Author: Sabri
- *  first Lab in C programing languge
  *  this code aim to calculate the circle area and circumference.
  */
 
